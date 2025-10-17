@@ -1,0 +1,7 @@
+/home/akshat/Pico_Programming/pico-tools/picotool/picotool
+/home/akshat/Pico_Programming/pico-tools/picotool/picotoolTargets.cmake
+/home/akshat/Pico_Programming/pico-tools/picotool/picotoolTargets-release.cmake
+/home/akshat/Pico_Programming/pico-tools/picotool/picotoolConfig.cmake
+/home/akshat/Pico_Programming/pico-tools/picotool/picotoolConfigVersion.cmake
+/home/akshat/Pico_Programming/pico-tools/picotool/enc_bootloader.elf
+/home/akshat/Pico_Programming/pico-tools/picotool/enc_bootloader_mbedtls.elf
