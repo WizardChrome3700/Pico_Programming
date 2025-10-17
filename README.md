@@ -4,3 +4,6 @@ give execution access to the files using this command.
 
 chmod +x ~/Pico_Programming/create_project.sh
 chmod +x ~/Pico_Programming/pico_sdk_setup.sh
+
+### Raspberry Pi Pico W pinout
+![pico W pinout](./board_pinouts/picow-pinout.svg "pico W pinout")
